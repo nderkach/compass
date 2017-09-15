@@ -8,8 +8,10 @@ compass:
   logo: "/images/profile.jpeg"
   # author will appear under the avatar (optional)
   author: "Nikolay Derkach"
+  author_firstname: "Nikolay"
+  author_lastname: "Derkach"
   # tagline will appear under the title (optional)
-  tagline: "Hacker Extraordinaire"
+  # tagline: "Hacker Extraordinaire"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
